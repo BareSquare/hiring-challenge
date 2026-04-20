@@ -1,5 +1,8 @@
 # Baresquare Hiring Challenge
 
+> [!NOTE]
+> **The Baresquare Hiring Challenge is now closed.** Thanks for your interest — we're no longer accepting new registrations.
+
 ## AI Analyst — SEO & Web Operations (Entry Level)
 
 [Baresquare](https://baresquare.com) builds and deploys AI agents for enterprise clients like Sony, Adidas, and Vogue — automating real business workflows across analytics, SEO, and web operations.
